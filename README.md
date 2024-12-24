@@ -1,2 +1,3 @@
 # jerry-demo
-this is my first Git Reposotory
+This is my first Git Respostiory
+Author- Bhgabata01
