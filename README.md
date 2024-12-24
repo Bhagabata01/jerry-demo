@@ -1,4 +1,4 @@
 # jerry-demo
 This is my first Git Respostiory
 <br>
-Author- Bhgabata01
+Author- jerry(bhagabata brahma)
